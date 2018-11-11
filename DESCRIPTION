@@ -1,0 +1,11 @@
+Package: katasR
+Type: Package
+Title: Sample katas exercises written in R
+Version: 0.0.1
+Author: Luis Palomero
+Maintainer: Luis Palomero <lpalomerol@gmail.com>
+Description: Some katas written in R programming language
+    Exercises
+License: MIT
+Encoding: UTF-8
+LazyData: true
